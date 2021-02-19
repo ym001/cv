@@ -201,14 +201,22 @@ li .fa, li .fab {
     flex-direction: row;
 }
 
-.experience ol > li > span,
-.education ol > li p,
+.experience ol > li > {
+    font-size: 85%;
+}
+.education ol > li p{
+    font-size: 80%;
+}
 .experience ol > li header p {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .experience ol > li header p {
     font-size: 110%;
+}
+
+.publication ol > li p {
+    font-size: 90%;
 }
 
 .education ol > li div > *:last-child,
