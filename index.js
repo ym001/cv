@@ -144,7 +144,7 @@
         var docControlsStr =
             `<!-- Document control buttons-->
             <div id="document-controls">
-                <button data-action="clear" title="Remove saved draft">Clear draft</button>
+                <!--<button data-action="clear" title="Remove saved draft">Clear draft</button>-->
                 <button data-action="save" title="Download as HTML">Save HTML</button>
                 <button data-action="print" title="Print">Print</button>
             </div>
@@ -326,6 +326,6 @@
     }
 
     updatePageNumbers();
-    makeEditable();
+    /* makeEditable();*/
     requestAnimationFrame(bindMutationObserver);
 })();
