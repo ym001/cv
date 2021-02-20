@@ -50,7 +50,12 @@ body {
 img {
     max-width: 100%;
 }
-
+a { color: #FA7024;
+	font-weight: bold;
+	text-decoration:none; 
+ }
+a:hover { color: #5024FA; 
+ }
 p {
     margin-top: 0;
     margin-bottom: 0;
