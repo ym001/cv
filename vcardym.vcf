@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Yves Mercadier
+N:Mercadier;Yves;;;
+UID:urn:uuid:
+GENDER:M
+KIND:individual
+EMAIL:yves.mercadier@ik.me
+TITLE:research scientist (AI)
+LANG;PREF=1:fr
+LANG;PREF=2:en
+URL:https://ym001.github.io/cv/
+NOTE;QUOTED-PRINTABLE:Intelligence artificial-oriented PhD with lots of experience. Solid track record of architecting solutions that exceed expectations.
+KEY:
+END:VCARD

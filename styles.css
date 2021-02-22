@@ -176,7 +176,10 @@ li .fa, li .fab {
 	text-decoration:none;    
 }
 
-
+.skills > ul > li > span > a:hover {
+	color: #5024FA;
+	font-weight: bold;
+ }
 
 /* Experience & Education */
 
