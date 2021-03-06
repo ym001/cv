@@ -4,14 +4,81 @@
   display: inline;
    float: right;
   fill: #0057B8;
-
 }
 
-#svg:hover {
-	-webkit-animation-play-state: paused;
-	animation-play-state: paused;
-	}
+#svg:hover path:nth-child(1) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(2) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(3) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(4) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(5) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(6) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
 
+#svg:hover path:nth-child(7) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(8) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(9) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(10) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(11) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(12) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(13) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(14) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(15) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(16) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(17) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+#svg:hover path:nth-child(18) {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
 
 #svg path:nth-child(1) {
   -webkit-animation: pweek 1.8s linear infinite;
